@@ -10,6 +10,7 @@ Windows 10/11 = x64
 DonationWare
 
 Client FTP léger qui permet de transferer des fichiers depuis/vers PC <> serveur distant.
+Basé sur LibCurl.
 
 Permet de :
  -copier (fichiers/dossiers)
@@ -18,7 +19,6 @@ Permet de :
  -renommer
  -lister les fichiers du répertoire distant.
 
-La version démo est moins rapide dans les transferts de fichiers.
 
 Utilisation :
 -----------
