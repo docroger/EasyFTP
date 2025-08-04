@@ -11,6 +11,7 @@ DonationWare
 
 Client FTP léger qui permet de transferer des fichiers depuis/vers PC <> serveur distant.
 Basé sur LibCurl.
+Testé sur hébergement Free non sécurisé.
 
 Permet de :
  -copier (fichiers/dossiers)
