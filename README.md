@@ -3,10 +3,10 @@ FTP client
 
 :::::::::::::::::::::::
 
-EsasyFTP 1.6
+EsasyFTP 1.8
 ------------
-2023 - Docno
-Windows 10/11 = x32/x64
+2025 - Docno
+Windows 10/11 = x64
 DonationWare
 
 Client FTP léger qui permet de transferer des fichiers depuis/vers PC <> serveur distant.
