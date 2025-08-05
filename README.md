@@ -3,7 +3,7 @@ FTP client
 
 :::::::::::::::::::::::
 
-EsasyFTP 1.8
+EsasyFTP 2.0
 ------------
 2025 - Docno
 Windows 10/11 = x64
