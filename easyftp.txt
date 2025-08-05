@@ -1,41 +1,41 @@
-EsasyFTP 1.8.0
+EsasyFTP 2.0.0
 ------------
 2025 - Docno
 Windows 10/11 = x32/x64
 DonationWare
 
-Client FTP lÈger qui permet de transferer des fichiers depuis/vers PC <> serveur distant.
+Client FTP l√©ger qui permet de transferer des fichiers depuis/vers PC <> serveur distant.
 
 Permet de :
  -copier (fichiers/dossiers)
- -crÈer des dossiers
+ -cr√©er des dossiers
  -supprimer (fichiers/dossiers)
  -renommer
- -lister les fichiers du rÈpertoire distant.
+ -lister les fichiers du r√©pertoire distant.
 
-La version dÈmo est moins rapide dans les transferts de fichiers.
+La version d√©mo est moins rapide dans les transferts de fichiers.
 
 Utilisation :
 -----------
 
-Menu RAZ = remise ‡ zÈro du log (zone d'affichage des infos en jaune)
+Menu RAZ = remise √† z√©ro du log (zone d'affichage des infos en jaune)
 
 Onglet Connexion :
 ================
-Permet de paramÈtrer l'accËs a un site.
+Permet de param√©trer l'acc√®s a un site.
 Cliquer sur le bouton Options pour afficher un menu.
- -Nouveau : crÈe un nouveau site
+ -Nouveau : cr√©e un nouveau site
  -Ajouter : enregistre le nouveau site
  -Modifier : enregistre les modifications
- -Supprimer : dÈtruit un site
+ -Supprimer : d√©truit un site
 
 Dans le champs Site : entrer le nom du site (ex : monsitefree)
- -FTP : l'adresse FTP donnÈe par le fournisseur (ex :ftpperso.free.fr)
- -Port : en gÈnÈral 21 ou donnÈ par le fournisseur
+ -FTP : l'adresse FTP donn√©e par le fournisseur (ex :ftpperso.free.fr)
+ -Port : en g√©n√©ral 21 ou donn√© par le fournisseur
  -Login : l'identifiant (ou cocher anonyme)
  -Password : mot de passe
 
-Une fois le site paramÈtrÈ, cliquer sur le grand bouton de connexion (onglet Connexion).
+Une fois le site param√©tr√©, cliquer sur le grand bouton de connexion (onglet Connexion).
 Il s'affiche la liste des fichiers du site dans l'onglet DISTANT.
 
 Cliquer de nouveau sur le grand bouton pour deconnexion (cloturer la connexion).
@@ -46,32 +46,33 @@ Liste les fichiers sur le serveur distant.
 Double clic sur le nom d'un dossier pour parcourir l'arborescence.
 Cliquer sur .. pour remonter.
 Cliquer avec bouton droit pour afficher le menu contextuel.
- -Nouveau rÈpertoire : crÈe un dossier.
- -Renommer : le fichier sÈlectionnÈ.
- -Supprimer : les fichiers sÈlectionnÈs sur le serveur.
- -Copier >> DISTANT : les fichiers sÈlectionnÈs du serveur seront copiÈs dans le dossier affichÈ dans l'onglet distant.
+ -Nouveau r√©pertoire : cr√©e un dossier.
+ -Renommer : le fichier s√©lectionn√©.
+ -Supprimer : les fichiers s√©lectionn√©s sur le serveur.
+ -Copier >> DISTANT : les fichiers s√©lectionn√©s du serveur seront copi√©s dans le dossier affich√© dans l'onglet distant.
 
-La sÈlection multiple est possible (associÈ avec CTRL ou SHIFT).
+La s√©lection multiple est possible (associ√© avec CTRL ou SHIFT).
 
-SÈlectionner le rÈpertoire destination pour y copier des fichiers du PC.
+S√©lectionner le r√©pertoire destination pour y copier des fichiers du PC.
 
 Onglet Local :
 ============
 Affiche les fichiers du dossier local (PC).
 Bouton droit pour le menu contextuel.
- -RÈpertoire : permet de choisir un dossier ou un disque sur le PC
- -Copier >> LOCAL : les fichiers sÈlectionnÈs du PC seront copiÈs dans le dossier affichÈ dans l'onglet DISTANT.
+ -R√©pertoire : permet de choisir un dossier ou un disque sur le PC
+ -Copier >> LOCAL : les fichiers s√©lectionn√©s du PC seront copi√©s dans le dossier affich√© dans l'onglet DISTANT.
 
-SÈlection multiple possible.
+S√©lection multiple possible.
 
-SÈlectionner le rÈpertoire destination pour y copier des fichiers du serveur.
+S√©lectionner le r√©pertoire destination pour y copier des fichiers du serveur.
 
 Onglet Liste :
 ============
-Permet de constituer une liste de fichiers du PC, ‡ transfÈrer sur le serveur.
-Utiliser le glisser/dÈposer depuis une fenÍtre d'explorateur de fichiers.
+Permet de constituer une liste de fichiers du PC, √† transf√©rer sur le serveur.
+Utiliser le glisser/d√©poser depuis une fen√™tre d'explorateur de fichiers.
 
 Bouton droit pour le menu contextuel.
- -Supprimer : supprime la ligne sÈlectionnÈe.
+ -Supprimer : supprime la ligne s√©lectionn√©e.
  -Effacer : efface la liste.
- -Copier >> DISTANT : copie les lignes sÈlectionnÈes dans le dossier affichÈ dans l'onglet DISTANT.
+ -Copier >> DISTANT : copie les lignes s√©lectionn√©es dans le dossier affich√© dans l'onglet DISTANT.
+
